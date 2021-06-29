@@ -2,5 +2,6 @@
 .idea/
 *.class
 *.log
+*.log.*
 target/
 /dependency-reduced-pom.xml
